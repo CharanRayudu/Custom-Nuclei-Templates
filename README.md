@@ -1,3 +1,2 @@
-###
-Binded these templates here from so many repos as One!
-Great Love to the guys who made it!
+# my-nuclei-templates
+Some contributions in the nuclei-templates repository
